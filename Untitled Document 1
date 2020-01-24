@@ -1,2 +1,8 @@
 god is great! srujan is god!
 he is great because he is srujan!
+
+#include<stdio.h>
+void main()
+{
+printf("hello world");
+}
