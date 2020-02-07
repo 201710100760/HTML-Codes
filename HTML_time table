@@ -21,13 +21,13 @@
 <th style="background-color:yellow">6</th>
 
 </tr>
-<tr><th style="background-color:gray">Monday</th><th>CS1</th><th>CS2</th><th style="background-color:yellow">lunch</th><th>CS1</th><th>CS2</th><th>CS1</th></tr>
+<tr>
+<th style="background-color:gray">Monday</th><th>CS1</th><th>CS2</th><th style="background-color:yellow">lunch</th><th>CS1</th><th colspan="2">CS2</th></tr>
 <tr><th style="background-color:gray">Tuesday<th>CS1</th><th>CS2</th><th>CS3</th><th style="background-color:yellow">lunch</th><th>CS2</th><th>CS1</th></tr>
 <tr><th style="background-color:gray">Wednesday<th>CS1</th><th>CS2</th><th style="background-color:yellow">lunch</th><th>CS1</th><th>CS2</th><th>CS1</th></tr>
 <tr><th style="background-color:gray">Thursday<th>CS1</th><th>CS2</th><th>CS3</th><th style="background-color:yellow">lunch</th><th>CS2</th><th>CS1</th></tr>
-<tr><th style="background-color:gray">Friday<th>CS1</th><th>CS2</th><th style="background-color:yellow">lunch</th><th>CS1</th><th>CS2</th><th>CS1</th></tr>
+<tr><th style="background-color:gray">Friday<th colspan="2">CS2</th><th style="background-color:yellow">lunch</th><th>CS1</th><th>CS2</th><th>CS1</th></tr>
 </table>
 <p align="right"><b><mark>Time Table Organiser: Sruajn</br></p>
 </center>
 </html>
-
