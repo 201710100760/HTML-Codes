@@ -1,0 +1,15 @@
+<html>
+	<head>
+		<title>HTML Frames</title>
+	</head>
+	
+	<frameset cols="*,*,*">
+		<frame name="top" src="Fashion" />
+		<frameset rows="*,*,*">
+				<frame src="s2.jpg">
+				<frame src="s1.webp">
+		</frameset>
+		<frame name="bottom" src="pup.jpg" />
+			
+	</frameset>
+</html>
