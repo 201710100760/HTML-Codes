@@ -1,31 +1,143 @@
 <html>
-	<body style="background-color:skyblue">
+	<body style="background-color:pink">
+	<marquee direction="right">S.K.Srujan</marquee>
+	<a id="bookmark_name"></a>
 	<head>
 	<center>
-	<h1>Curriculum Vitae</h1>	
+	<h1><u>Curriculum Vitae</u></h1>	
 	</center>
 	</head>
+	<img align="right" width="120" height="120" border="3" src="/home/cse9/Documents/cse0588/srujan.jpeg"/><br>
 	<p><b>Name: S.K.Srujan</b></p>
-	<hr>
-	<p><b>Career Objective:<br></b>Innu yen ankondilla</p><hr>
-	<p><b>Educational Qualification:<br></b></p>
-	<table cellpadding="1" cellspacing="1" border="1" width="100%" height="30%">
-	<tr><th>Education</th><th>Institution</th><th>Percentage/CGPA</th></tr>
-	<tr><th>10<sup>th</sup></th><th>Jawahar Navodaya Vidyalaya<br>Chikkaballapura</th><th>8.0 CGPA</th></tr>
-	<tr><th>12<sup>th</sup> PCMB</th><th>Vikram Pre-University College</th><th>73%</th></tr>
-	<tr><th>B.tech (CSE)<br>5<sup>th</sup> Sem</th><th>Presidency University</th><th>6.9 CGPA</th></tr>
-	</table><br><br><hr>
-	<p><b>Skills:</b></p>
+	<p><b>e-mail: sksrujan14@gmail.com</b></p>
+	<p><b>Mobile: 8884336648</b></p>
+	<br><br><hr>
+	<p ><b>Career Objective:<br><hr>
+	</b>I need To Enter The Field Where I can utilise My Skills Upto The mark.</p><br><br><hr>
+	<p><b>Educational Qualification:<br></p></b><hr>
+	<table cellpadding="1" cellspacing="1" width="90%" height="20%">
+	<tr style="background-color:white">
+	<th >Education</th>
+	<th >Institution</th>
+	<th >Percentage/CGPA</th>
+	</tr>
+	<tr align="center">
+	<td>10<sup>th</sup> CBSE</td>
+	<td>Jawahar Navodaya Vidyalaya<br>Chikkaballapura</td>
+	<td>8.0 CGPA</td>
+	</tr>
+	<tr align="center">
+	<td>PUC PCMB</td>
+	<td>Vikram Pre-University College</td>
+	<td>73%</td>
+	</tr>
+	<tr align="center">
+	<td>B.tech (CSE)<br>5<sup>th</sup> Sem</td>
+	<td>Presidency University</td>
+	<td>6.9 CGPA</td>
+	</tr>
+	</table>
+	<br><br><br><hr>
+	<p><b>Skills:</b></p><hr>
 	<ul>
 	<li>C-basics</li>
 	<li>Python Programming</li>
 	<li>Arduino Programming</li>
-	</ul>
-	<p><b>Co-Curricular Activities:</b></p>
+	<li>DBMS (Data Base Management System)</li>
+	<li>Web Development Basics</li>
+	<li>ALP (Assembly Language Programming</li>
+	
+	</ul><br><br><br>
+	<hr>
+	<p><b>Co-Curricular Activities:</b></p><hr>
 	<ul>
 	<li>Regional Level Badminton player 2011-2012</li>
 	<li>District level Quiz Champion 2008-2009</li>
 	<li>School level chess Player 2012-2013</li>
-	</ul>
+	</ul><br><br><br>
+	<hr>
+	<p><b>Languages known:</p></b><hr>
+	<table cellpadding="1" cellspacing="1"  width="90%" height="20%">
+	<tr style="background-color:white" align="center">
+	<th >Language</th>
+	<th >Read</th>
+	<th >Write</th>
+	<th >Speak</th>
+	</tr>
+	<tr align="center">
+	<td>Kannada</td>
+	<td>Yes</td>
+	<td>Yes</td>
+	<td>Yes</td>
+	</tr>
+	<tr align="center">
+	<td>English</td>
+	<td>Yes</td>
+	<td>Yes</td>
+	<td>Yes</td>
+	</tr>
+	<tr align="center">
+	<td>Telugu</td>
+	<td>Yes</td>
+	<td>No</td>
+	<td>Yes</td>
+	</tr>
+	<tr align="center">
+	<td>Hindi</td>
+	<td>Yes</td>
+	<td>Yes</td>
+	<td>Yes</td>
+	</tr>
+	</table><br><br><hr>
+	<p><b>Projects Undertaken:</p></b><hr>
+	<table cellpadding="3" cellspacing="2" border="1" width="90%" height="20%" >
+	<tr  >
+	<th style="background-color:white">Project Done At:</th>
+	<td>Presidency University</td>
+	</tr>
+	<tr >
+	<th style="background-color:white">Under Guidance Of:</th>
+	<td>Mr.Mrutyunjaya.M.S. Asst.Professor CSE Dept,Presidency University</td>
+	</tr>
+	<tr >
+	<th style="background-color:white">Project Title:</th>
+	<td>Smart Car Using IoT Technology</td>
+	</tr>
+	<tr >
+	<th style="background-color:white">Project Description:</th>
+	<td>The project Was done using the famous Micro-controller Arduino UNO,the car was Contolled Using bluetooth And Voice commands through 	Any Of the Android Platform Devices.Which is made For Security Surveillence and Inner-office Transportation.</td>
+	</tr>
+	</table><br><br><br>
+	<hr>
+	<p><b>Personal Info:</p></b><hr>
+	<table cellpadding="3" cellspacing="2" border="1"  width="90%" height="20%" >
+	<tr >
+	<th style="background-color:white">Name:</th>
+	<td>S.K.Srujan</td>
+	</tr>
+	<tr >
+	<th style="background-color:white">Father Name:</th>
+	<td>V.Krishnappa</td>
+	</tr>
+	<tr>
+	<th style="background-color:white">Mother Name:</th>
+	<td>Prema</td>
+	</tr>
+	<tr>
+	<th style="background-color:white">Father Mobile:</th>
+	<td>9972033027</td>
+	</tr>
+	<tr>
+	<th style="background-color:white">Address:</th>
+	<td>Sadali village and post,Via Peresandra,Chikkaballapura District,PIN-562104</td>
+	</tr>
+	</table>
+	<br><br><br>
+	<p>07/02/2020<br>Bengaluru<br><br>(S.K.Srujan)</p>
+	<a href="https://www.presidencyuniversity.in">
+	<img src="srujan1.jpeg" alt="image as link" style="width:72px;height:72px;border:8;">
+	</a>
+	<hr>
+	<a href="#bookmark_name">Go to bookmark</a>
 	</body>
 </html>
