@@ -1,0 +1,11 @@
+			body{
+					background:url(s2.jpg);
+					background-size:cover;
+				}
+			h2{
+					font-weight:bold;
+					font-size:180%;
+					font-family:system-ui;
+					color:maroon;
+					margin-left:40px;
+			}
