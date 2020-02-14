@@ -1,0 +1,11 @@
+<html>
+	<body>
+	<head>
+		<title>HTML Frames</title>
+	</head>
+
+	<iframe height=600 width=600 src="s2.jpg" name="iframe_a">
+	</iframe>
+	<p><a href="https://www.presidencyuniversity.in" target="iframe_a">load new web page</a></p>
+	</body>
+</html>
