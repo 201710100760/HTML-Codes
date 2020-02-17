@@ -1,0 +1,38 @@
+<html>
+<head>
+<h1><u>CSS INLINE METHOD</u></h1>
+</head>
+<body style="background-color:pink">
+<p style="font-size:16pt;line-height:125%">
+India (Hindi: Bhārat), officially the Republic of India (Hindi: Bhārat Gaṇarājya),[20] is a country in South Asia. 
+</p>
+
+<p style="margin-bottom:1cm;">
+India (Hindi: Bhārat), officially the Republic of India (Hindi: Bhārat Gaṇarājya),[20] is a country in South Asia.<div> It is the seventh-largest country by area, the second-most populous country, and the most populous democracy in the world.
+</p></div>
+
+<p style="letter-spacing:7em">
+India (Hindi: Bhārat), officially the Republic of India (Hindi: Bhārat Gaṇarājya),[20] is a country in South Asia. 
+</p>
+
+<p style="word-spacing:20pc;">
+India (Hindi: Bhārat), officially the Republic of India (Hindi: Bhārat Gaṇarājya),[20] is a country in South Asia.
+</p>
+
+<p style="font-size:24pt;line-height:3ex;">
+India (Hindi: Bhārat), officially the Republic of India (Hindi: Bhārat Gaṇarājya),[20] is a country in South Asia. 
+</p>
+
+<p style="padding:25px;">
+India (Hindi: Bhārat), officially the Republic of India (Hindi: Bhārat Gaṇarājya),[20] is a country in South Asia. 
+</p>
+
+<p style="font-size:1pc;">
+India (Hindi: Bhārat), officially the Republic of India (Hindi: Bhārat Gaṇarājya),[20] is a country in South Asia.
+</p>
+<p style="font-size:18pt;">
+India (Hindi: Bhārat), officially the Republic of India (Hindi: Bhārat Gaṇarājya),[20] is a country in South Asia. 
+</p>
+
+</body>
+</html>
