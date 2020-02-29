@@ -1,0 +1,17 @@
+<html>
+<body>
+<center>
+<h2>8th Sem</h2>
+<center>
+<table cellspacing=2  border=4 cellpadding=2 height=30% width=80% bordercolor="red">
+<tr>
+<th style="background-color:green">Group A</td>
+<th style="background-color:green">Group B</td>
+</tr>
+<tr>
+<td> IP Batch</td>
+<td> Non-IP Batch</td>
+</tr>
+<body>
+</table>
+</html>

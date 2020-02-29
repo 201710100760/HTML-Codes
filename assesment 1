@@ -1,0 +1,7 @@
+<html>
+<frameset cols="75%,25%">
+  <frame src="table1">
+ 	<frame src="assesment">
+</frameset>
+
+</html>

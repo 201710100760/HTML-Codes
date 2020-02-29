@@ -1,0 +1,39 @@
+<html>
+<table cellpadding=0 cellborder=1 width=100% height=80%>
+<tr style="background-color:skyblue">
+<td colspan="5"><marquee><h2>Presidency University</h2></marquee><img align="right" src="/home/cse9/Documents/cse0588/university emblem.png"></td>
+</tr>
+<tr>
+<td style="background-color:gray">
+<h2>B.tech Courses</h2>
+<ul>
+<li>Mechanical</li>
+<li>civil</li>
+<li><mark>Computer Science<mark></li>
+<ol type="i">
+<li>CCE</li>
+<li>ISE</li>
+<li>COM</li>
+</ol>
+<li>Electronics</li>
+<li>Petroleum</li>
+<li>Electrical</li>
+</ul>
+<td style="background-color:yellow">
+<u><b><center>Welcome To CSE Dept</b></u><br><p>Department Of Computer Science Has Three Batches Of Students</p></center>
+<ol type="1">
+<li>8th Sem</li>
+<li>6th Sem</li>
+<li>4th Sem</li>
+</ol>
+</td>
+<td style="background-color:white" >
+<b>Internet Technologies Course</b><br>
+<P>This Course introduce students to basic web design<br>using html language and cascading sheets</p>
+<a href="www.Presidencyuniversity.in"> Download Course handout</a>
+</td>
+</tr>
+</table>
+<hr>
+<img src="/home/cse9/Documents/cse0588/university badge.jpg">
+</html>
